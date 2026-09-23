@@ -1,0 +1,5 @@
+.env
+kept_offers.json
+non_bank_offers.json
+raw_offers.json
+__pycache__
